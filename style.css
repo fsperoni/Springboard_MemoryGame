@@ -10,4 +10,12 @@
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 2fr 10fr;
   column-gap: 2rem;
+  height: 6rem;
+}
+
+button {
+  border-radius: 10px;
+  background-color: darkgoldenrod;
+  height: fit-content;
+  margin-top: 2rem;
 }
